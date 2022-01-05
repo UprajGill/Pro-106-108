@@ -1,0 +1,10 @@
+.h1{
+color: aliceblue;
+background-color: navy;
+}
+body{
+background:tomato;
+}
+#result,#confidence{
+background-color: yellowgreen;
+}
