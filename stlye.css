@@ -1,10 +1,45 @@
 .h1{
 color: aliceblue;
 background-color: navy;
+font-family: 'Licorice', cursive;
 }
 body{
-background:tomato;
+background-image:linear-gradient(rgb(235, 235, 102),rgb(190, 143, 55),rgb(98, 98, 190))
 }
 #result,#confidence{
-background-color: yellowgreen;
+background-color: red;
+font-family: 'Island Moments', cursive;
+font-weight: 800;
+}
+.copy_right_footer{
+background: white;
+color:black;
+font-family: 'Playfair Display', serif;
+font-weight: bolder;
+margin-top: 20px;
+font-size: 25px;
+}
+.button{
+font-size: 40px;
+width:35%;
+letter-spacing: 2px;
+font-weight: bolder;
+font-family: 'Playfair Display', serif;
+background-color: green;
+}
+#alien1{
+border: black solid 4px;
+margin-right:25px;
+}
+#alien2{
+border: black solid 4px;
+margin-right:25px;
+}
+#alien3{
+border: black solid 4px;
+margin-right:25px;
+}
+#alien4{
+border: black solid 4px;
+margin-right:25px;
 }
